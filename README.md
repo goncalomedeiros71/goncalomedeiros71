@@ -25,18 +25,10 @@
     <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white" />
 </div>
 
-## 📊 Estatísticas do GitHub
-<div align="center">  
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=seuusername&theme=radical&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Seu Nome github stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&theme=radical&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=0d1117" />
-</div>
-<div align="center">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=seuusername&theme=radical&hide_border=true&background=0d1117" />
-</div>
 
 ## 📈 Gráfico de Atividade
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=radical&bg_color=0d1117&hide_border=true&area=true" alt="Gráfico de atividade do GitHub de [Seu Nome]" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=radical&bg_color=0d1117&hide_border=true&area=true" alt="Gráfico de atividade do GitHub" />
 </div>
 
 ## 🌟 Projetos em Destaque
@@ -44,5 +36,5 @@
 - [Nome do Projeto 2](link_para_o_projeto): Descrição breve do projeto.
 
 ## 📫 Contato
-- Email: seuemail@gmail.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- Email: gongon4med@gmail.com
+
