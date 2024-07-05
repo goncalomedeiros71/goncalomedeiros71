@@ -11,6 +11,8 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-%2300599C.svg?style=flat&logo=postgresql&logoColor=white" />
 </div>
 
 ### Ferramentas e Tecnologias
