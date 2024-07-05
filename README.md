@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Gonçalo Medeiros</h1>
+<h1 align="center">Olá o meu nome é Gonçalo Medeiros 👋</h1>
 
 
 <p align="center">
