@@ -28,7 +28,7 @@
 
 ## 📈 Gráfico de Atividade
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=radical&bg_color=0d1117&hide_border=true&area=true" alt="Gráfico de atividade do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goncalomedeiros71&theme=radical&bg_color=0d1117&hide_border=true&area=true" alt="Gráfico de atividade do GitHub" />
 </div>
 
 ## 🌟 Projetos em Destaque
