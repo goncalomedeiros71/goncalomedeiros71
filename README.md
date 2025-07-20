@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:gongon4med@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gon%C3%A7alo-medeiros-61134a31a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 🚀 Habilidades
@@ -24,11 +24,6 @@
     <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white" />
-</div>
-
-## 📈 Gráfico de Atividade
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goncalomedeiros71&theme=radical&bg_color=0d1117&hide_border=true&area=true" alt="Gráfico de atividade do GitHub" />
 </div>
 
 ## 🌟 Projetos em Destaque
