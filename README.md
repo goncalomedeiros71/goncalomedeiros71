@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:gongon4med@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gon%C3%A7alo-medeiros-61134a31a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gon%C3%A7alo-medeiros-61134a31a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 🚀 Habilidades
@@ -27,8 +27,9 @@
 </div>
 
 ## 🌟 Projetos em Destaque
-- [Nome do Projeto 1](link_para_o_projeto): Descrição breve do projeto.
-- [Nome do Projeto 2](link_para_o_projeto): Descrição breve do projeto.
+- [Data Analysis and Machine Learning Techniques](https://github.com/goncalomedeiros71/Data-Analysis-and-Machine-Learning-Techniques): Projeto focado em análise de dados e técnicas de machine learning.
+- [Surgical Appointment and Resource Management](https://github.com/goncalomedeiros71/Surgical-Appointment-and-Resource-Management): Sistema para gestão de marcações cirúrgicas e recursos hospitalares.
+- [-sem4pi-22-23-63](https://github.com/goncalomedeiros71/-sem4pi-22-23-63): Projeto desenvolvido durante o semestre 4 do curso.
 
 ## 📫 Contato
 - Email: gongon4med@gmail.com
