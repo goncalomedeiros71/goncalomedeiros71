@@ -5,11 +5,12 @@
   <a href="https://www.linkedin.com/in/gon%C3%A7alo-medeiros-61134a31a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
-## 🚀 Habilidades
+## Habilidades
 ### Linguagens de Programação
 <div align="center">
     <img src="https://img.shields.io/badge/CSharp-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLServer-%2300CCBB.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
@@ -18,6 +19,9 @@
 ### Ferramentas e Tecnologias
 <div align="center">
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Compose_Multiplatform-%233776AB.svg?style=flat&logo=jetpack-compose&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin_Multiplatform-%230095D5.svg?style=flat&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Desenvolvimento_Mobile-%23007ACC.svg?style=flat&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
